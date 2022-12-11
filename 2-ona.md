@@ -28,17 +28,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3></h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The app used XML scraping to get the most recent articles issued by ONA from their RSS feed. Working on this project taught me much about using Python for more than data analysis.</p>
 				<ul class="actions">
 					<li><a href="https://play.google.com/store/apps/details?id=org.ahmedhinai.ona" class="button">Check it out on Google Play</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-
-
-
-
-</div>
