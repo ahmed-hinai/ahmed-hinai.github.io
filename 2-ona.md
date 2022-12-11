@@ -22,9 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/oman_news_agency_app.png %}" alt="" data-position="center center" />
-		</a>
+		<img src="{% link assets/images/oman_news_agency_app.png %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
