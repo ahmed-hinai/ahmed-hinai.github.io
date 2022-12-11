@@ -39,23 +39,19 @@ nav-menu: true
 				<header class="major">
 					<h3>Start of first vaccination campaigns against Covid-19 in Oman.</h3>
 				</header>
-				<p>This is one of the few reports I directed. </p>
+				<p>This is one of the few reports I personaly directed. </p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQ3DtF09J5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>A National Student Symposium on future Tech</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p></p>
+
 			</div>
 		</div>
 	</section>
