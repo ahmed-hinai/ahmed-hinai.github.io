@@ -39,18 +39,18 @@ nav-menu: true
 				<header class="major">
 					<h3>Start of first vaccination campaigns against Covid-19 in Oman.</h3>
 				</header>
-				<p>This is one of the few reports I personaly directed. </p>
+				<p>One of the few reports I personaly directed. The staff at the hospital were very kind to put up with us dragging our camera around what was a very confined space.</p>
 			</div>
 		</div>
 	</section>
 	<section>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQ3DtF09J5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="480" src="https://www.youtube-nocookie.com/embed/XQ3DtF09J5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>A National Student Symposium on future Tech</h3>
 				</header>
-				<p></p>
+				<p>Got to use a lot of buzz words.</p>
 
 			</div>
 		</div>
