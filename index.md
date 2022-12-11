@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Profile
 landing-title: 'Hi, my name is Ahmed'
 description: null
 image: null
