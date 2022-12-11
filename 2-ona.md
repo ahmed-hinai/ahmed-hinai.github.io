@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Oman News Agency news reader</h2>
+			<h2>Python for more than data analysis</h2>
 		</header>
-		<p>One of the earliest applications I developed. It used the Kivy framework which is a UI SDK for Python. </p>
+		<p> </p>
 	</div>
 </section>
 
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3></h3>
+					<h3>Oman News Agency</h3>
 				</header>
-				<p>The app used XML scraping to get the most recent articles issued by ONA from their RSS feed. Working on this project taught me much about using Python for more than data analysis.</p>
+				<p>One of the earliest applications I developed. It used the Kivy framework which is a UI SDK for Python. The app used XML scraping to get the most recent articles issued by ONA from their RSS feed. Working on this project taught me much about using Python for more than data analysis.</p>
 				<ul class="actions">
 					<li><a href="https://play.google.com/store/apps/details?id=org.ahmedhinai.ona" class="button">Check it out on Google Play</a></li>
 				</ul>
