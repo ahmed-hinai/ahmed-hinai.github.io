@@ -1,8 +1,8 @@
 ---
 layout: landing
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Oman News Agency App
+description: News reader application to read the news issued by ONA
+image: assets/images/onabanner.png
 nav-menu: true
 ---
 

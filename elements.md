@@ -1,7 +1,8 @@
 ---
 layout: landing
-title: Elements
-image: assets/images/pic01.jpg
+title: Sukun
+image: assets/images/sukunbanner.png
+description: Automates the process of setting phones to silent mode before prayers
 nav-menu: true
 ---
 
