@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Public Speaking and Media Experience</h2>
 		</header>
-		<p>I worked as a News Reporter for Oman TV for a year or so. During this one year I had gained much knowledge of public speaking, conducting interviews, effective and efficient research, and writing clear and interesting reports on not so interesting topics. I have highlighted a few or my reports below.</p>
+		<p>I worked as a News Reporter for Oman TV for a year or so. During this one year I had gained much knowledge of public speaking, conducting interviews, effective and efficient research, and writing clear and interesting reports on not so interesting topics. I have highlighted a few of my reports below.</p>
 	</div>
 </section>
 

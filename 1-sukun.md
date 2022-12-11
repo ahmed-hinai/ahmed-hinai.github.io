@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Flutter and Dart</h2>
 		</header>
-		<p></p>
+		<p>First glimpse at professional app/software development.</p>
 	</div>
 </section>
 
@@ -28,7 +28,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sukun</h3>
 				</header>
-				<p></p>
+				<p>I had recently been learning c++, so picking up Dart was easy. The most challenging aspect of developing this app was dealing with exact alarms and some OEMs hardline approach to killing apps running in the background.</p>
 				<ul class="actions">
 					<li><a href="https://play.google.com/store/apps/details?id=org.ahmedhinai.prayer_time_silencer" class="button">Check it out on Google Play</a></li>
 				</ul>
