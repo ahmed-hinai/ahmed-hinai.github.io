@@ -32,7 +32,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<div ></div>
+	<div class="pad"></div>
 	<section>
 <div class="vidoe-container"><iframe width="560" height="480"  src="https://www.youtube-nocookie.com/embed/A7t0NsaNFo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		<div class="content">
@@ -44,7 +44,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-		<div ></div>
+		<div class="pad"></div>
 	<section>
 <div class="vidoe-container"><iframe width="560" height="480" src="https://www.youtube-nocookie.com/embed/XQ3DtF09J5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		<div class="content">
