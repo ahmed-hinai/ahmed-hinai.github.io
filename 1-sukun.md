@@ -32,6 +32,9 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://play.google.com/store/apps/details?id=org.ahmedhinai.prayer_time_silencer" class="button">Check it out on Google Play</a></li>
 				</ul>
+				<ul class="actions">
+					<li><a href="/sukunprivacypolicy" class="button">Privay Policy</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
