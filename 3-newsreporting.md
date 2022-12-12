@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-	<div class="vidoe-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p0JrJ4iMDnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	<div class="vidoe-container"><iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/p0JrJ4iMDnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -33,7 +33,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-<div class="vidoe-container"><iframe width="560" height="315"  src="https://www.youtube-nocookie.com/embed/A7t0NsaNFo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="vidoe-container"><iframe width="720" height="480"  src="https://www.youtube-nocookie.com/embed/A7t0NsaNFo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -44,7 +44,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-<div class="vidoe-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XQ3DtF09J5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="vidoe-container"><iframe width="720" height="480" src="https://www.youtube-nocookie.com/embed/XQ3DtF09J5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
