@@ -2,7 +2,7 @@
 layout: landing
 title: ProjectMRHN
 image: assets/images/
-description: AI chatbot using Deep Learning Neural network
+description: AI chatbot app for legal queries - CANCELED - 
 nav-menu: true
 ---
 
