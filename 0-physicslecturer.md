@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Teaching Physics
-image: assets/images/
+image: assets/images/mtc.jpg
 description: I currently work as an assitant Lecturer of Physics at MTC
 nav-menu: true
 ---
